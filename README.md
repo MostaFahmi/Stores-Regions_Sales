@@ -1,11 +1,5 @@
 # Stores Sales Project Overview
 
-## Introduction
-This project, led by Mostafa Atef Fahmi, focuses on optimizing store sales data through Excel, SSMS, SSIS, and Power BI.
-
-## Importance
-Enhancing data quality, applying ETL processes, and developing insightful dashboards are crucial for informed business decisions.
-
 ## Objectives
 1. **Cleaning & Transformation**: Refine raw data in Excel for improved accuracy.
 2. **Modeling**: Design Data Mart tables and constraints using SSMS.
